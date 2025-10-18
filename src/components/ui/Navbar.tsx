@@ -45,7 +45,7 @@ export default function Navbar() {
             fontWeight: '700',
             color: '#FFFFFF'
           }}>
-            Auro
+            AuroTrust
           </span>
         </div>
         
