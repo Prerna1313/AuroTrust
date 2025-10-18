@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  min-height: 100vh;
+  background: #0a0d10;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+#root, #__next {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  background: #0a0d10;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
